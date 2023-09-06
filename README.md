@@ -1,5 +1,3 @@
-# Data Science Portfolio
-
 Welcome to my Data Science Portfolio repository! This repository showcases my data science projects and analyses. Below, you'll find information about the first project in this portfolio.
 
 ## Project 1: Exploratory Data Analysis (EDA) - Food Company Dataset
