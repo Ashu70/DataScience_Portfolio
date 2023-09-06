@@ -1,6 +1,6 @@
 Welcome to my Data Science Portfolio repository! This repository showcases my data science projects and analyses. Below, you'll find information about the first project in this portfolio.
 
-### <span style="color:blue">Project 1: Exploratory Data Analysis (EDA) - Food Company Dataset</span>
+### <span style="color:#ff5733;">Project 1: Exploratory Data Analysis (EDA) - Food Company Dataset</span>
 
 ### Overview
 In this project, I analyzed the Food Company dataset, which was downloaded from Kaggle. The goal was to gain insights into the dataset and understand the factors affecting campaign acceptance. Through exploratory data analysis (EDA) using Python, I identified key trends and relationships within the data.
@@ -13,7 +13,7 @@ In this project, I analyzed the Food Company dataset, which was downloaded from 
 ### Notebook
 You can access the Jupyter Notebook containing the analysis for this project by clicking [here](https://github.com/Ashu70/DataScience_Portfolio/blob/main/MA_EDA.ipynb).
 
-### <span style="color:blue">Project 2: Restaurant's cuisine ratings data</span>
+### <span style="color:#ff5733;">Project 2: Restaurant's cuisine ratings data EDA Analysis</span>
 
 ### Overview
 In this project, I analyzed the Restaurant's cuisine ratings dataset, which was downloaded from Kaggle. The goal was to gain insights into the dataset and understand it. Through exploratory data analysis (EDA) using Python.
@@ -21,7 +21,7 @@ In this project, I analyzed the Restaurant's cuisine ratings dataset, which was 
 ### Key Findings
 - The histogram of the year of birth was negatively skewed which is a common phenomenon in real-world cases which implies that the restaurant gets more younger generation.
 - There was a a slightly negative correlation between Budget and Service rating but the correlation is weak so we will not put much emphasis on it.
-- The Qualitative columns were analysed in ratios which gives a brief idea of customers the restaurant gets.
+- The Qualitative columns were analysed in ratios which gives a brief idea of the customers the restaurant gets.
 
 ### Notebook
 You can access the Jupyter Notebook containing the analysis for this project by clicking [here](https://github.com/Ashu70/DataScience_Portfolio/blob/main/Restaurant's_cuisine_ratings_data.ipynb).
