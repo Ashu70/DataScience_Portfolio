@@ -24,7 +24,7 @@ In this project, I analyzed the Restaurant's cuisine ratings dataset, which was 
 - The Qualitative columns were analysed in ratios which gives a brief idea of customers the restaurant gets.
 
 ### Notebook
-You can access the Jupyter Notebook containing the analysis for this project by clicking [here](https://github.com/Ashu70/DataScience_Portfolio/blob/main/Restaurant's cuisine ratings data.ipynb).
+You can access the Jupyter Notebook containing the analysis for this project by clicking [here](https://github.com/Ashu70/DataScience_Portfolio/blob/main/Restaurant's).
 
 ## Future Projects
 Stay tuned for more exciting data science projects! I will be adding further analyses and explorations to this portfolio.
