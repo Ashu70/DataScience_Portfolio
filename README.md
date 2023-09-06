@@ -1,5 +1,5 @@
 # DataScience_Portfolio
-# Food Marketing Data Analysis
+# Food Marketing Data Analysis (https://github.com/Ashu70/DataScience_Portfolio/blob/main/MA_EDA.ipynb)
 
 This repository contains the code and documentation for conducting exploratory data analysis (EDA) and creating a correlation matrix for marketing campaigns in the food industry.
 The Data was download from kaggle
