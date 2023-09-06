@@ -1,6 +1,6 @@
 Welcome to my Data Science Portfolio repository! This repository showcases my data science projects and analyses. Below, you'll find information about the first project in this portfolio.
 
-### <span style="color:#ff5733;">Project 1: Exploratory Data Analysis (EDA) - Food Company Dataset</span>
+### [<span style="color:#ff5733;">Project 1: Exploratory Data Analysis (EDA) - Food Company Dataset</span>](https://github.com/Ashu70/DataScience_Portfolio/blob/main/MA_EDA.ipynb)
 
 ### Overview
 In this project, I analyzed the Food Company dataset, which was downloaded from Kaggle. The goal was to gain insights into the dataset and understand the factors affecting campaign acceptance. Through exploratory data analysis (EDA) using Python, I identified key trends and relationships within the data.
@@ -13,7 +13,7 @@ In this project, I analyzed the Food Company dataset, which was downloaded from 
 ### Notebook
 You can access the Jupyter Notebook containing the analysis for this project by clicking [here](https://github.com/Ashu70/DataScience_Portfolio/blob/main/MA_EDA.ipynb).
 
-### <span style="color:#ff5733;">Project 2: Restaurant's cuisine ratings data EDA Analysis</span>
+### [<span style="color:#ff5733;">Project 2: Restaurant's cuisine ratings data EDA Analysis</span>](https://github.com/Ashu70/DataScience_Portfolio/blob/main/Restaurant's_cuisine_ratings_data.ipynb)
 
 ### Overview
 In this project, I analyzed the Restaurant's cuisine ratings dataset, which was downloaded from Kaggle. The goal was to gain insights into the dataset and understand it. Through exploratory data analysis (EDA) using Python.
