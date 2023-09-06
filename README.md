@@ -13,6 +13,19 @@ In this project, I analyzed the Food Company dataset, which was downloaded from 
 ### Notebook
 You can access the Jupyter Notebook containing the analysis for this project by clicking [here](https://github.com/Ashu70/DataScience_Portfolio/blob/main/MA_EDA.ipynb).
 
+## Project 2: Restaurant's cuisine ratings data
+
+### Overview
+In this project, I analyzed the Restaurant's cuisine ratings dataset, which was downloaded from Kaggle. The goal was to gain insights into the dataset and understand it. Through exploratory data analysis (EDA) using Python.
+
+### Key Findings
+- The histogram of the year of birth was negatively skewed which is a common phenomenon in real-world cases which implies that the restaurant gets more younger generation.
+- There was a a slightly negative correlation between Budget and Service rating but the correlation is weak so we will not put much emphasis on it.
+- The Qualitative columns were analysed in ratios which gives a brief idea of customers the restaurant gets.
+
+### Notebook
+You can access the Jupyter Notebook containing the analysis for this project by clicking [here](https://github.com/Ashu70/DataScience_Portfolio/blob/main/Restaurant's cuisine ratings data.ipynb).
+
 ## Future Projects
 Stay tuned for more exciting data science projects! I will be adding further analyses and explorations to this portfolio.
 
