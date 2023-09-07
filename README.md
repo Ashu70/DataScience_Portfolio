@@ -1,4 +1,4 @@
-<span style="color:#ff5733;">Welcome to my Data Science Portfolio repository! This repository showcases my data science projects and analyses. Below, you'll find information about the first project in this portfolio.</span>
+Welcome to my Data Science Portfolio repository! This repository showcases my data science projects and analyses. Below, you'll find information about the first project in this portfolio.
 
 ### [Project 1: Exploratory Data Analysis (EDA) - Food Company Dataset](https://github.com/Ashu70/DataScience_Portfolio/blob/main/MA_EDA.ipynb)
 
