@@ -26,7 +26,7 @@ In this project, I analyzed the Restaurant's cuisine ratings dataset, which was 
 ### Notebook
 You can access the Jupyter Notebook containing the analysis for this project by clicking [here](https://github.com/Ashu70/DataScience_Portfolio/blob/main/Restaurant's_cuisine_ratings_data.ipynb).
 
-### [Project 3: Titanic - Machine Learning from Disaster](https://github.com/Ashu70/DataScience_Portfolio/blob/main/Titanic_Machine_Learning_from_Disaster.ipynb)
+### [Project 3: Titanic - Machine Learning from Disaster ML Implementation(Decision Tree)](https://github.com/Ashu70/DataScience_Portfolio/blob/main/Titanic_Machine_Learning_from_Disaster.ipynb)
 
 ### Overview
 
