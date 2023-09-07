@@ -47,6 +47,9 @@ Fill in the "Survived" attribute in the testing dataset based on our model's pre
 - Created a Confusion matrix and calculated accuracy, Precision, Recall, and F1 Score (got an accuracy of 74.15%)
 - Filled the survival column of Test data with the help of the Decision tree ML model created.
 
+### Notebook
+You can access the Jupyter Notebook containing the analysis for this project by clicking [here](https://github.com/Ashu70/DataScience_Portfolio/blob/main/Titanic_Machine_Learning_from_Disaster.ipynb)
+
 
 ## Future Projects
 Stay tuned for more exciting data science projects! I will be adding further analyses and explorations to this portfolio.
