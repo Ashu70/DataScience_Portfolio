@@ -52,5 +52,6 @@ Fill in the "Survived" attribute in the testing dataset based on our model's pre
 Stay tuned for more exciting data science projects! I will be adding further analyses and explorations to this portfolio.
 
 If you have any questions or feedback, please feel free to reach out.
+ashutoshkumr20@gmail.com
 
 Thank you for visiting my Data Science Portfolio!
