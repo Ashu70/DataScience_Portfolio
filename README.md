@@ -3,7 +3,7 @@ Welcome to my Data Science Portfolio repository! This repository showcases my da
 ### [Project 1: Exploratory Data Analysis (EDA) - Food Company Dataset](https://github.com/Ashu70/DataScience_Portfolio/blob/main/MA_EDA.ipynb)
 
 ### Overview
-In this project, I analyzed the Food Company dataset, which was downloaded from Kaggle. The goal was to gain insights into the dataset and understand the factors affecting campaign acceptance. Through exploratory data analysis (EDA) using Python, I identified key trends and relationships within the data.
+In this project, I analyzed the ID Food Company dataset downloaded from Kaggle. The goal was to gain insights into the dataset and understand the factors affecting campaign acceptance. Through exploratory data analysis (EDA) using Python, I identified key trends and relationships within the data.
 
 ### Key Findings
 - I found a positive correlation between campaign acceptance and income, suggesting that customers with higher incomes were more likely to accept the campaign.
@@ -42,7 +42,7 @@ Use a training dataset to train the model.
 Fill in the "Survived" attribute in the testing dataset based on our model's predictions.
 
 ### Key Findings/Work done
-- Clean the data and calculate the chance of survival based on factor like gender and did some feature reduction too.
+- Clean the data and calculate the chance of survival based on factors like gender and did some feature reduction too.
 - Implemented a Decision tree machine learning algorithm.
 - Created a Confusion matrix and calculated accuracy, Precision, Recall, and F1 Score (got an accuracy of 74.15%)
 - Filled the survival column of Test data with the help of the Decision tree ML model created.
@@ -50,6 +50,18 @@ Fill in the "Survived" attribute in the testing dataset based on our model's pre
 ### Notebook
 You can access the Jupyter Notebook containing the analysis for this project by clicking [here](https://github.com/Ashu70/DataScience_Portfolio/blob/main/Titanic_Machine_Learning_from_Disaster.ipynb)
 
+### [Project 4: Sensitivity Analysis of Flipkart Reviews via VADER library](https://github.com/Ashu70/DataScience_Portfolio/blob/main/Flipkart_Review_SenstivityAnalysis.ipynb)
+
+### Overview
+The Flipkart Review Sensitivity Analysis using VADER (Valence Aware Dictionary and Sentiment Reasoner) is a valuable data analysis technique that assesses the sentiment of customer reviews on the Flipkart platform. VADER is a lexicon and rule-based sentiment analysis tool that can evaluate the emotional tone of text data, making it a suitable choice for understanding customer sentiments in e-commerce reviews.
+
+### Key Findings/Work done
+- Cleaned the Data and Analyzed the review column using the VADER library.
+- Analyzed the reviews on various thresholds so we can consider the one as per our requirement.
+- Created a word cloud to see the most frequently used words on review.
+
+### Notebook
+You can access the Jupyter Notebook containing the analysis for this project by clicking [here](https://github.com/Ashu70/DataScience_Portfolio/blob/main/Flipkart_Review_SenstivityAnalysis.ipynb)
 
 ## Future Projects
 Stay tuned for more exciting data science projects! I will be adding further analyses and explorations to this portfolio.
